@@ -1,0 +1,28 @@
+* {
+	 font-family: "Libre Baskerville", serif;
+}
+
+
+.section1 {
+	background-color: #9fadd9;
+}
+
+.section2 {
+	background-color: #7a8eca;
+}
+
+.section3 {
+	background-color: #314684;
+}
+
+.section4 {
+	background-color: #314684;
+}
+
+.card, .card-img-top {
+	border-radius: 0px;
+}
+
+
+
+
